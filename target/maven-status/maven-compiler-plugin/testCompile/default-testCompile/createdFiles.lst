@@ -1,0 +1,4 @@
+common\calendar\BusinessCalendarTest.class
+services\RentalAgreementServiceTest.class
+services\RentalOfferingsServiceTest.class
+services\ToolsServiceTest.class
